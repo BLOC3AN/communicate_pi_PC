@@ -1,0 +1,4 @@
+Connect SSH: 
+    ssh hai@IP 
+    EX: ssh hai@192.168.2.35 #Connect to 192.168.2.35 is raspberry IP.
+    
